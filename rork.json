@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Taqueria Allende",
+      "path": "ios-taqueria-allende",
+      "framework": "swift"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
